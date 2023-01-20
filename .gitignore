@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 model.pth
 data/FashionMNIST/raw/*
+.vscode/settings.json
