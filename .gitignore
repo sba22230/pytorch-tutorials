@@ -153,3 +153,5 @@ cython_debug/
 model.pth
 data/FashionMNIST/raw/*
 .vscode/settings.json
+data/Bus/Gz/*.csv.gz
+Zips/Bus/DublinBusdata.zip
