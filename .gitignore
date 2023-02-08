@@ -155,3 +155,6 @@ data/FashionMNIST/raw/*
 .vscode/settings.json
 data/Bus/Gz/*.csv.gz
 Zips/Bus/DublinBusdata.zip
+TensorFlow/aclImdb/*
+
+TensorFlow/aclImdb_v1.tar.gz
