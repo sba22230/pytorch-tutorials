@@ -151,10 +151,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 model.pth
-data/FashionMNIST/raw/*
+data/*
 .vscode/settings.json
 data/Bus/Gz/*.csv.gz
 Zips/Bus/DublinBusdata.zip
 TensorFlow/aclImdb/*
-
+TensorFlow/Data/*
 TensorFlow/aclImdb_v1.tar.gz
+TensorFlow/Zips/Bus/DublinBusdata.zip
