@@ -159,3 +159,6 @@ TensorFlow/aclImdb/*
 TensorFlow/Data/*
 TensorFlow/aclImdb_v1.tar.gz
 TensorFlow/Zips/Bus/DublinBusdata.zip
+TensorFlow/logs/fit/20230706-163055/train/events.out.tfevents.1688657456.STEHAYESSURFACE.19988.0.v2
+TensorFlow/logs/fit/20230706-163055/validation/events.out.tfevents.1688657516.STEHAYESSURFACE.19988.1.v2
+Deep Learning for NLP/runs/*
